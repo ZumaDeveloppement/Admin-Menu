@@ -1,0 +1,8 @@
+1. Download an_dialogBox from github and add it to your resources folder, be sure to remove `-main` from the end of the folder name.
+
+https://github.com/aymannajim/an_dialogBox
+
+2. Add this to your server.cfg:
+
+ensure an_dialogBox
+ensure an_adminmenu
